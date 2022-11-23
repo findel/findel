@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning more about Containerization and .NET MAUI. 
 - 🌐 I work for [Netring Ltd](https://www.netring.co.uk/)
 - 🐦 I’m on Twitter [@Findel](https://twitter.com/Findel)
-- 🐘 I’m on Masdoton [@findel@toot.wales](https://toot.wales/@findel)
+- 🐘 I’m on Mastodon [@findel@toot.wales](https://toot.wales/@findel)
 - 🔗 I’m on [LinkedIn](https://www.linkedin.com/in/philipbaines/)

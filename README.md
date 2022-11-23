@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phil Baines @findel
+- 👋 Hi, I’m Phil Baines
 - 👀 I’m interested in Software Development, Music, Home Automation, Games and more
 - 🌱 I’m currently learning more about Containerization and .NET MAUI. 
 - 🌐 I work for [Netring Ltd](https://www.netring.co.uk/)

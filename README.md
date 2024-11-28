@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Phil Baines
-- 👀 I’m interested in Software Development, Music, Home Automation, Games and more
-- 🌱 I’m currently learning more about Containerization and .NET MAUI. 
-- 🌐 I work for [Netring Ltd](https://www.netring.co.uk/)
-- 🐦 I’m on Twitter [@Findel](https://twitter.com/Findel)
+- 👋 Hi, I’m Phil Baines.
+- 👀 I’m interested in Software Development, Music, Home Automation, Games and more.
+- 🌱 I’m recently refreshing and expanding my knowledge of SQL optimisation.
+- 🌐 I do my freelance work at [wubbleyew.com](https://www.wubbleyew.com)
+- 🏢 I also work for [Netring Ltd](https://www.netring.co.uk)
+- 🐦 I’m on Twitter/X [@Findel](https://twitter.com/Findel)
 - 🐘 I’m on Mastodon [@findel@toot.wales](https://toot.wales/@findel)
-- 🔗 I’m on [LinkedIn](https://www.linkedin.com/in/philipbaines/)
+- 🔗 I’m on [LinkedIn](https://www.linkedin.com/in/phil-baines)
